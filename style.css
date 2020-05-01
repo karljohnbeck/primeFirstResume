@@ -1,7 +1,8 @@
 h1 {
-  text-align: Center;
   font-family: Helvetica;
 }
+h2 {
+  margin-top: 20px;
 p {
   color: black;
 }
