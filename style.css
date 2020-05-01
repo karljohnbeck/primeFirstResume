@@ -2,4 +2,6 @@ h1 {
   text-align: Center;
   font-family: Helvetica;
 }
-
+p {
+  color: black;
+}
