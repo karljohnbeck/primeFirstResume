@@ -1,3 +1,7 @@
+#heading {
+  margin-right: 10px;
+}
+
 h1 {
   font-family: Bookman, serif;
   margin-bottom: 5px;
@@ -25,6 +29,7 @@ hr {
   margin-left: 50px;
   margin-right: 50px;
     }
+
 li {
   margin-top: 5px;
   margin-bottom: 5px;
