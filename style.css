@@ -11,17 +11,23 @@ h1 {
 h2 {
   margin-top: 7px;
   margin-bottom: 7px;
+    font-family: Bookman, serif;
+
 }
 
 h4 {
   margin-left: 15px;
   margin-top: 7px;
   margin-bottom: 7pm;
+  font-family: Bookman, serif;
+
 
 }
     
 h3 {
   margin-bottom: 7px;
+  font-family: Bookman, serif;
+
 }
 
 p {
@@ -29,15 +35,20 @@ p {
   margin-top: 5px;
   margin-right: 80px;
   margin-left: 5px;
+  font-family: Bookman, serif;
+
 }
 
 hr {
   margin-left: 50px;
   margin-right: 50px;
+
     }
 
 li {
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  font-family: Bookman, serif;
+
 }
   
